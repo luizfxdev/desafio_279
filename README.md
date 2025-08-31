@@ -95,6 +95,7 @@ dp[i] = Math.max(dp[i-1], stones[i] + dp[i-2])
 ### Complexidade
 
 **Tempo:** O(n) - linear
+
 **Espaço:** O(n) - para armazenar resultados intermediários
 
 ### 🎮 Controles
@@ -134,8 +135,11 @@ Background não aparece: Verifique nome e formato da imagem
 **Navegadores Suportados**
 
 ✅ Chrome 60+
+
 ✅ Firefox 55+
+
 ✅ Safari 12+
+
 ✅ Edge 79+
 
 ## 📄 Licença
@@ -143,7 +147,6 @@ Background não aparece: Verifique nome e formato da imagem
 Este projeto é open source e está disponível sob a licença MIT.
 
 ## 🤝 Contribuições
-
 Sinta-se à vontade para sugerir melhorias, correções ou novas funcionalidades!
 
 *Desenvolvido com 💜 para ajudar o Programador Mago em sua jornada épica!* 🧙‍♂️⚡✨
