@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A Jornada do Programador Mago</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1>🧙‍♂️ A Jornada do Programador Mago</h1>
+        <p>Ajude nosso herói a encontrar o caminho com maior poder mágico!</p>
+      </header>
+
+      <div class="input-section">
+        <label for="magicStones">Pedras Mágicas (números separados por vírgula):</label>
+        <input type="text" id="magicStones" placeholder="Ex: 4, 5, 8, 11, 3" tabindex="1" />
+      </div>
+
+      <div class="buttons-section">
+        <button class="glow-on-hover calculate-btn" type="button" tabindex="2">⚡ CALCULAR</button>
+        <button class="glow-on-hover return-btn" type="button" tabindex="3">🔄 RETORNAR</button>
+      </div>
+
+      <div class="result-section" id="resultSection">
+        <h3>🔮 Resultado da Jornada</h3>
+        <div id="calculationSteps" class="calculation-steps"></div>
+        <div id="finalResult" class="final-result"></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
