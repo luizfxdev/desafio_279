@@ -143,7 +143,6 @@ Background não aparece: Verifique nome e formato da imagem
 ✅ Edge 79+
 
 ## 📄 Licença
-
 Este projeto é open source e está disponível sob a licença MIT.
 
 ## 🤝 Contribuições
