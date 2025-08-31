@@ -148,4 +148,5 @@ Este projeto é open source e está disponível sob a licença MIT.
 ## 🤝 Contribuições
 Sinta-se à vontade para sugerir melhorias, correções ou novas funcionalidades!
 
+<br>
 *Desenvolvido com 💜 para ajudar o Programador Mago em sua jornada épica!* 🧙‍♂️⚡✨
